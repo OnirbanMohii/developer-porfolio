@@ -13,6 +13,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 150px;
 }
 
 .haif-width {
@@ -36,5 +37,10 @@ section {
 
 .top-banner {
     background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.babu {
+    background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
 }

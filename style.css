@@ -1,46 +1,40 @@
+h1 {
+    font-size: 70px;
+}
+
+.color {
+    color: red;
+}
+
 body {
     font-family: 'Poppins', sans-serif;
-    margin: 0;
-}
-
-h1 {
-    font-size: 50px;
-}
-
-.orange-color {
-    color: blue;
 }
 
 section {
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 }
 
-.haif-width {
+.px {
     width: 50%;
-    padding-left: 10%;
+    padding: 20px;
+}
+
+.px image {
+
+    padding: 100px 80px;
 
 }
 
-.haif-width img {
-    width: 80%;
-}
-
-.link-button {
+.button {
     text-decoration: none;
-    background-color: rgb(255, 0, 64);
-    color: white;
-    font-weight: 700;
-    padding: 10px 40px;
-    border-radius: 10px;
+    background-color: blue;
+    border-radius: 20px;
+    color: beige;
+    font-size: 200;
+    padding: 15px 40px;
 }
 
-.top-banner {
-    background-image: url(images/top-banner.png);
-    background-repeat: no-repeat;
-}
-
-.babu {
-    background-image: url(images/dream-bg.png);
-    background-repeat: no-repeat;
+p {
+    right: ;
 }
